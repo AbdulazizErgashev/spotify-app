@@ -65,3 +65,4 @@ export default function Player() {
 }
 // 01:52:30
 // https://www.youtube.com/watch?v=amFYvQK4huo&t=1442s
+// yangi kodlar
