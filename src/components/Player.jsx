@@ -67,6 +67,4 @@ export default function Player() {
     </div>
   );
 }
-// 2:05:45
 // https://www.youtube.com/watch?v=amFYvQK4huo&t=1442s
-// SongsItem.jsx

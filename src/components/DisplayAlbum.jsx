@@ -57,5 +57,4 @@ export default function DisplayAlbum() {
     </>
   );
 }
-
-// 2:07:26
+// 2:07:10
